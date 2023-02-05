@@ -3,6 +3,6 @@ layout: post
 title: Index
 published: true
 ---
-## Activity Log ∷ 02.05.23
+## Collective on Visuo-Audio Neosemiotic Research (CVANR)
 
-Establishing contact method: Nostr via **npub1m258hmr95eetl8nsvvetc3z88vx9xh3c7n6qzz2qkj3c0pq4q8tq4g8fe5**
+We are a decentralized and anonymous group of individuals collecting information (_visuo-audio article extractions, subjective reports, related phenomenon_) around the activities of **Neurodrome**.
