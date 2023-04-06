@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Activity Log ∷ 02.05.23
 
