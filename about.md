@@ -5,7 +5,13 @@ permalink: /about/
 published: true
 ---
 ### Purpose
-Decentralized research collective investigating the activities and outcomes of CVANR phenomenon.
+We are an anonymous, decentralized, nonprofessional research collective investigating the activities and outcomes of _Neurodrome_ phenomena. 
+
+Our work is rooted in curiosity and objectivity. 
+
+We have no motives other than to discover, interpret and deliver information about the emerging trend of individuals participating with and being impacted by the _Neurodrome_.
+
+Please see our glossary.
 
 ### Contact me
 
