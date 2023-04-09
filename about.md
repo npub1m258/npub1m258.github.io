@@ -4,14 +4,22 @@ title: About
 permalink: /about/
 published: true
 ---
-### Purpose
-We are an anonymous, decentralized, nonprofessional research collective investigating the activities and outcomes of _Neurodrome_ phenomena. 
+### npub1m258
+I am a medical student and junior agent with CVANR. I was invited to join the project recently and was selected to be the first to set up channels of anonymous communication with the world.
 
+# CVANR 
+## Purpose 
+We are an anonymous, decentralized, nonprofessional research collective investigating _Neurodrome_ phenomena. 
+
+## Ethos
 Our work is rooted in curiosity and objectivity. 
 
-We have no motives other than to discover, interpret and deliver information about the emerging trend of individuals participating with and being impacted by the _Neurodrome_.
+## Objectives
+We have no motives other than to discover, organize, interpret and deliver information about this emerging trend of activity. We utilize our own bespoke technologies to capture the subjective, interior experiences of individuals who have participated with and affected by the _Neurodrome_.
 
-Please see our [glossary](https://npub1m258.github.io/glossary/).
+_We are ever grateful for the bravery and openness of Participants in sharing their experiences with CVANR._
+
+For more information, see our [glossary](https://npub1m258.github.io/glossary/).
 
 ### Contact me
 [nostr](https://nostr.com):
