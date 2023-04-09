@@ -11,7 +11,7 @@ Our work is rooted in curiosity and objectivity.
 
 We have no motives other than to discover, interpret and deliver information about the emerging trend of individuals participating with and being impacted by the _Neurodrome_.
 
-Please see our glossary.
+Please see our [glossary](https://npub1m258.github.io/glossary/).
 
 ### Contact me
 
